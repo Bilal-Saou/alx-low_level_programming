@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Description: prints _alphabet - utilizes on the _putchar finction to print
- *                           the alphabet a - z
+ * print_alphabet - utilizes on the _putchar finction to print
+ *                 the alphabet a - z
  *
 */
 
