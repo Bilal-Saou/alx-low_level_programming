@@ -2,10 +2,9 @@
 
 /**
  * print_chessboard - print a chessboard.
- * @a: source matrix
  *
- *
- * Return: chessboard.
+ * @a: rows
+ * Return: nothing.
  */
 
 void print_chessboard(char (*a)[8])
